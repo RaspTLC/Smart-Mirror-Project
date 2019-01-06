@@ -1,0 +1,13 @@
+pcm.!default {
+	type hw
+	card 1
+}
+
+ctl.!default {
+	type hw
+	card 1
+}
+
+// There is my code in .asoundrc, because i've a USB sound Card and not a usb mic.
+// but how you see in the video the mic work perfectly, and also it's the little beep how can you hear, then the problem i think is
+// in the Assistant module. But whaaaattt????
